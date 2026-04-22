@@ -1,0 +1,367 @@
+{
+  "site": {
+    "name": "Modernize Green Solutions",
+    "tagline": "Making energy-efficient homes affordable for all homeowners.",
+    "description": "Making renewable energy a reality. Solar, HVAC, impact windows, roofing, landscaping, and attic insulation for everyday homeowners.",
+    "url": "https://modernizegreensolutions.com",
+    "logo": "/images/logo.webp",
+    "logoAlt": "Modernize Green Solutions"
+  },
+  "theme": {
+    "colors": {
+      "dark": "#1f211c",
+      "ink": "#373737",
+      "accent": "#fb8e28",
+      "accentHover": "#e07a1a",
+      "primary": "#09ce63",
+      "muted": "#6c6c89",
+      "surface": "#ffffff"
+    }
+  },
+  "nav": {
+    "primary": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Solutions",
+        "href": "/solutions",
+        "children": [
+          {
+            "label": "Solar Panels",
+            "href": "/solutions/solar-panels"
+          },
+          {
+            "label": "HVAC",
+            "href": "/solutions/hvac"
+          },
+          {
+            "label": "Impact Windows & Doors",
+            "href": "/solutions/windows"
+          },
+          {
+            "label": "Roofing",
+            "href": "/solutions/roofing"
+          },
+          {
+            "label": "Landscaping",
+            "href": "/solutions/landscaping"
+          },
+          {
+            "label": "Attic Insulation",
+            "href": "/solutions/attic-insulation"
+          }
+        ]
+      },
+      {
+        "label": "Our Work",
+        "href": "/work"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "cta": {
+      "label": "Get Free Estimate",
+      "href": "/contact"
+    }
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "eyebrow": "MAKING RENEWABLE ENERGY A REALITY",
+      "headline": "Making energy-efficient homes affordable for all homeowners.",
+      "subheadline": "Solar, HVAC, impact windows, roofing, landscaping, and insulation — everything your home needs to go green, in one trusted partner.",
+      "cta": {
+        "label": "Request a detailed estimate",
+        "href": "/contact"
+      },
+      "ctaSecondary": {
+        "label": "See our work",
+        "href": "/work"
+      },
+      "backgroundImage": "/images/hero.png"
+    },
+    "intro": {
+      "enabled": true,
+      "text": "We help homeowners upgrade to renewable, efficient systems without the complexity. One partner. End-to-end service. Real savings."
+    },
+    "services": {
+      "enabled": true,
+      "headline": "Our Solutions",
+      "subheadline": "Everything you need to modernize your home — under one roof.",
+      "items": [
+        {
+          "slug": "solar-panels",
+          "title": "Solar Panels",
+          "short": "Power your home with clean energy and cut your electric bill.",
+          "icon": "sun",
+          "image": "/images/service-solar-panels.png"
+        },
+        {
+          "slug": "hvac",
+          "title": "HVAC",
+          "short": "High-efficiency heating and cooling that keeps you comfortable year-round.",
+          "icon": "thermometer",
+          "image": "/images/service-hvac.png"
+        },
+        {
+          "slug": "windows",
+          "title": "Impact Windows & Doors",
+          "short": "Hurricane-rated windows that protect your home and lower energy bills.",
+          "icon": "window",
+          "image": "/images/service-windows.png"
+        },
+        {
+          "slug": "roofing",
+          "title": "Roofing",
+          "short": "Durable, energy-smart roofing built to last decades.",
+          "icon": "home",
+          "image": "/images/service-roofing.png"
+        },
+        {
+          "slug": "landscaping",
+          "title": "Landscaping",
+          "short": "Beautiful, low-water landscapes that work with the climate — not against it.",
+          "icon": "leaf",
+          "image": "/images/service-landscaping.png"
+        },
+        {
+          "slug": "attic-insulation",
+          "title": "Attic Insulation",
+          "short": "Seal your attic. Stop wasting heating and cooling dollars.",
+          "icon": "layers",
+          "image": "/images/service-attic-insulation.png"
+        }
+      ]
+    },
+    "cta": {
+      "enabled": true,
+      "headline": "Ready to modernize your home?",
+      "subheadline": "Get a free, no-pressure estimate. We'll walk you through every option.",
+      "button": {
+        "label": "Request a Free Estimate",
+        "href": "/contact"
+      }
+    },
+    "testimonials": {
+      "enabled": false,
+      "items": []
+    },
+    "blogTeaser": {
+      "enabled": true,
+      "headline": "From the blog",
+      "subheadline": "Insights on renewable energy and home efficiency."
+    }
+  },
+  "about": {
+    "headline": "About Modernize Green Solutions",
+    "lead": "Making energy-efficient homes affordable for every homeowner.",
+    "body": "Who we are\n\nWith a combined experience of over 30 years, we are proud to offer a complete array of services, including solar panels, HVAC systems, impact windows and doors, roofing, and landscaping. Our company prides itself on providing quality products and services that help you save money on your utility bills while making our planet a better place.\n\nWe offer both commercial and residential services with an emphasis on renewable energy solutions. Whether you need a new HVAC system or want to make some updates around your home, we’ve got you covered.\n\nWhat we do\n\nWith our experienced construction team, we offer top-tier home renovation services tailored to your personal needs from start-to-finish while utilizing green energy.\n\nWhy Choose Us\n\nExpedited time frames\n\nFinance programs\n\nProfessional and certified\n\nClean and organized\n\nMEET THE TEAM\n\nluca Vard\n\nSenior Executive\n\nagnes southern\n\nHead Marketing\n\nadam smith\n\nProject Manager\n\nDiscover How Our Renewable Energy Solutions Can Benefit You\n\nSolar Panels\n\nHVAC\n\nWindows\n\nRoofing\n\nLandscaping\n\nExplore Our Solutions\n\nRenewable Energy\n\nWe Do It All\n\nExplore Our Projects\n\nDesign\n\nBuild\n\nInstall\n\nSorry, your browser doesn't support embedded videos.\n\nCommunity\n\nCommunity is an employee-owned life insurance company with a deep commitment to service. We do things differently, and we make a difference.\n\nEnergy Platforms\n\nIf you’re looking for a green energy platform, we can help! We are experts in the field, with over ten years of experience and a proven track record of client satisfaction. Our goal is to provide high quality services at affordable prices so that anyone can get started with their own green energy platform.\n\nUsage & Control\n\nThe benefits of using renewable energy are numerous. Renewable energy sources, including solar, wind and hydroelectric power, do not produce greenhouse gas emissions and can reduce some types of air pollution. They also diversify our energy supply and decrease dependence on imported fuels. This can help us avoid price spikes that occur when demand is high and supply is low—a problem that has plagued the U.S. in recent years.\n\nLet us help you\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFull Name\n\nEmail Address\n\nPhone Number\n\nI agree to use my personal data.\n\nGet a Callback",
+    "image": "/images/about.jpg",
+    "values": [
+      {
+        "title": "One trusted partner",
+        "body": "Every upgrade your home needs, handled under one roof."
+      },
+      {
+        "title": "Real savings, fast",
+        "body": "Our projects pay for themselves through lower utility bills and rebates."
+      },
+      {
+        "title": "No-pressure process",
+        "body": "We educate first, sell second. You decide what makes sense."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in touch",
+    "lead": "Tell us about your home. We'll follow up within one business day.",
+    "email": "info@modernizegreensolutions.com",
+    "phone": "",
+    "address": "",
+    "hours": "Mon–Fri, 9am–6pm ET",
+    "formEndpoint": ""
+  },
+  "footer": {
+    "tagline": "Making renewable energy a reality.",
+    "copyright": "© 2026 Modernize Green Solutions. All rights reserved.",
+    "socials": []
+  },
+  "work": {
+    "headline": "Our Work",
+    "lead": "A selection of recent projects across South Florida.",
+    "items": [
+      {
+        "image": "/images/work-1.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-2.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-3.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-4.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-5.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-6.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-7.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-8.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-9.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-10.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-11.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-12.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-13.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-14.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-15.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-16.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-17.jpg",
+        "title": "",
+        "description": ""
+      },
+      {
+        "image": "/images/work-18.jpg",
+        "title": "",
+        "description": ""
+      }
+    ]
+  },
+  "services": {
+    "solar-panels": {
+      "body": "GO GREEN – \n\nSAVE ON YOUR BILLS!\n\nReliable Energy Supply\n\nInstall a solar energy system for your home. Whether you live in a sunny location or are just looking for a way to reduce your electricity costs, call us today and learn how solar energy can help save you money.\n\nEnergy Independence\n\nSolar panels give you energy independence by allowing you to generate your own electricity. With solar panels, you can reduce or eliminate your reliance on external energy sources and take charge of your energy future!\n\nCustomizable Solutions\n\nSolar panels are a great long-term investment for reducing your monthly utility bill while adding value to your home. Solar energy is clean and environmentally responsible and can be installed in various locations on your property.\n\nBENEFITS OF SWITCHING TO A SOLAR PANEL SYSTEM:\n\nMoving to a solar panel system offers many advantages, including financial savings, environmental benefits, energy independence, and long-term value. It’s an investment that benefits you and contributes to a sustainable future for generations to come.\n\nCost Savings\n\nBy generating your own electricity, you can reduce your reliance on grid power.\n\nRenewable Energy\n\nBy adopting solar power, you contribute to reducing greenhouse gas emissions and combating climate change.\n\nEnergy Independence\n\nWith a solar panel system, you become more self-reliant regarding energy production.\n\nLong-Term Investment\n\nInstalling solar panels is a long-term investment that can increase the value of your property.\n\nGovernment Incentives\n\nGovernments offer incentives, such as tax credits, rebates, and net metering programs, to encourage the adoption of solar energy.\n\nTechnological Advancements\n\nSolar panels are more efficient, sleeker, and customizable, allowing for seamless integration into various architectural styles.\n\nSorry, your browser doesn't support embedded videos.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    },
+    "hvac": {
+      "body": "What we do\n\nRENEWABLE ENERGY THAT CONTRIBUTES TO A CARBON-NEUTRAL ECONOMY\n\nZoning Systems\n\nProgrammable Thermostats\n\nHigh Energy Efficiency\n\nThe best value for your money\n\nAN ENERGY-EFFICIENT HVAC\n\nInstallation of a green HVAC system can provide energy-efficient and environmentally friendly heating, cooling, and ventilation solutions for your home. By embracing sustainable HVAC technologies, homeowners can enjoy enhanced comfort, improved indoor air quality, reduced environmental impact, and lower utility bills.\n\nGet in touch\n\nZoning Systems\n\nAir Filtration and Purification\n\nRenewable Energy Integration\n\nEnergy Recovery Ventilation\n\nTHE BENEFIT OF A GREEN HVAC SYSTEM\n\nGreen HVAC systems utilize energy-saving, highly efficient components and technologies to reduce air conditioner energy consumption. Some energy-efficient HVAC systems can save homeowners up to 30% on annual cooling costs compared to conventional units, often cutting household cooling bills in half. Homes equipped with these types of HVAC systems can also enjoy reduced utility bills and indoor comfort levels that are more consistent throughout the seasons.\n\nSorry, your browser doesn't support embedded videos.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    },
+    "windows": {
+      "body": "WE PROUDLY OFFER STRONGER, SAFER, ELEGANT, AND ENERGY-EFFICIENT WINDOWS\n\nLocally Build\n\nOur windows are both cost-effective and eco-friendly, as they are locally made and shipped by rail rather than truck.\n\nEnergy Efficiency\n\nOur replacement windows are Energy Star rated and exceed the 2023 criteria. They are designed to increase your comfort and lower your utility bills while increasing curb appeal.\n\nExpert Installation\n\nInstalling new windows should be easy and cost-effective. Our mission is to make replacing your windows as affordable as possible by offering a warranty and financing options.\n\nINSPIRATION FOR REPLACEMENT WINDOWS\n\nReduced Energy Consumption\n\nEnergy-efficient windows can help reduce a home’s energy consumption and ultimately lower utility bills. Minimizing the need for heating and cooling, they also help reduce your carbon footprint.\n\nImproved Thermal Comfort\n\nThermal window film can be applied to both the inside and outside of your windows to help improve energy efficiency, lower utility bills, and reduce seasonal temperature shifts.\n\nUV Protection\n\nEnergy-efficient windows help protect indoor furnishings and fabrics from UV damage, preserving their appearance and extending lifespan. They also reduce one’s load on the power grid, which is good for the environment, too!\n\nNoise Reduction\n\nOur windows and doors provide better sound insulation, reducing the transmission of external noise into the interior of a building. This results in improved indoor comfort for occupants and increased productivity for buildings.\n\nCondensation Reduction\n\nEnergy-efficient windows help maintain a healthier indoor environment by minimizing condensation. This helps eliminate the growth of mold, damage to window frames, as well as costly repairs.\n\nIncreased Property Value\n\nYou can increase the value of your home by installing energy-efficient windows. These upgrades will make it more appealing in the real estate market and help you save on your monthly utilities expenses.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    },
+    "roofing": {
+      "body": "A FEW REASONS WHY OUR ROOFING OPTIONS ARE RIGHT FOR YOU\n\nAttic Ventilation\n\nAttic ventilation is important to any home improvement or attic remodeling project. Without proper attention to ventilation in the attic, it will not only run hotter but also be prone to moisture, which can damage your roofing materials and cause mold growth.\n\nLayered Roof Deck Protection\n\nYour roof is your first defense in protecting your home against severe weather like wind-driven rain, hailstorms, ice dams and snow. Roof shingles are often the only waterproof barrier between your house and Mother Nature’s force.\n\nStarter Strip and Ridge Cap Shingles\n\nImprove the value of your home by installing starter strips and ridge cap shingles. Starter strip shingles save you time as well as money. Starter strips fit behind the foundation and into each gable end when layering roofing materials.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    },
+    "landscaping": {
+      "body": "TRANSFORM YOUR OUTDOOR SPACE WITH SKILLED CONTRACTORS WHO OPTIMIZE EFFICIENCY WHILE BLENDING AESTHETICS.\n\nArtificial turf\n\nArtificial Turf is a great way to save time and money on yard maintenance. It can be installed in areas that are difficult or impossible to mow, such as those with steep slopes or narrow spaces. It’s also safe for pets and children to play on because it doesn’t harbor mold or other harmful organisms like natural grass does.\n\nPavers\n\nPavers are the best addition to your yard for a more professional appearance. They can be used in any part of your landscape design, including patios, driveways, pool patios, walkways and retaining walls.\n\nConcrete\n\nWe provide our customers with quality concrete services that they can depend on. If you want the best quality of concrete services in Florida, give us the chance to provide you with your concrete service needs. With our talented team, you can receive any of the concrete services that you need.\n\nREDUCE YOUR ENERGY COSTS WITH BEAUTIFUL, SUSTAINABLE LANDSCAPING\n\nMoney Saving\n\nWith the growing demand of gasoline and electricity prices, save hundreds of dollars by turning your yard into an energy-efficient landscape with us today.\n\nECO Friendly\n\nImprove your home’s curb appeal and project professionalism with our energy-efficient landscaping. Our eco-conscious design approach offers attractive, long-lasting landscapes.\n\nBeautiful Design\n\nFrom rooftop gardens to solar water heaters and outdoor lighting, you can enhance your property with out beautiful yet practical designs.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    },
+    "attic-insulation": {
+      "body": "A FEW REASONS WHY OUR ATTIC INSULATION OPTIONS ARE RIGHT FOR YOU\n\nAttic insulation\n\nAttic insulation is your home’s first line of defense against extreme temperatures, helping to maintain indoor comfort and reduce energy costs year-round. By creating a thermal barrier, insulation protects your home from heat loss in the winter and heat gain in the summer, making your living space more energy-efficient and resilient against the elements.\n\nAttic Ventilation\n\nAttic ventilation is important to any home improvement or attic remodeling project. Without proper attention to ventilation in the attic, it will not only run hotter but also be prone to moisture, which can damage your roofing materials and cause mold growth.\n\nLet’s get started\n\nRequest a detailed estimate\n\nThank you for your message. It has been sent.\n\n×\n\nThere was an error trying to send your message. Please try again later.\n\n×\n\nFirst Name\n\nCompany Name\n\nEmail Address\n\nPhone Number\n\nHow can we help you?\n\nSolar PanelsHVACWindowsRoofingLandscaping \n\nProject Budget\n\nProject Completed By\n\n6 Months\n\n9 Months\n\n1 Year\n\nAdditional Information\n\nSend Request"
+    }
+  },
+  "posts": [
+    {
+      "slug": "the-pros-and-cons-of-renewable-energy",
+      "title": "The Pros and Cons Of Renewable Energy",
+      "date": "2022-05-13T21:19:10",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Pros:\n\nThe pros of renewable energy can be summed up as follows:\n\nSaves money. Renewable energy costs less than fossil fuels, so you’ll save money on your monthly electric bill. In fact, many people have found that installing solar panels or wind turbines in their homes has actually resulted in a net profit for them!\n\nReduces greenhouse gas emissions. Fossil fuels are the main cause of climate change, so reducing our dependence on them will help keep our planet healthy and livable for future generations (and yourself).\n\nHelps the environment by reducing pollution from coal plants and oil refineries; planting trees instead of burning them; protecting wildlife habitats with wind farms and solar arrays; avoiding chemical spills during mining operations…the list goes on!\n\nCons:\n\nCost: Renewables are more expensive than fossil fuels to generate energy, but they’re still cheaper than nuclear power.\n\nSpace: Wind turbines and solar panels take up a lot of space, so it may not be possible for you to use renewable energy in your home if you live in an area with limited land space or restrictions on building height.\n\nTime: It takes longer for renewables such as wind turbines and solar panels to produce electricity than fossil fuels do–they can’t provide instant power like coal plants do when coal is burned in them! Also, these technologies require maintenance (like cleaning) over time which adds costs to their production costs as well\n\nSafety Concerns: Some people worry about safety issues related specifically to wind farms, such as birds being killed by blades spinning at high speeds; however, no deaths have been recorded yet since these farms started operating commercially back in the 1980s\n\nRenewable energy is the future, but it’s not perfect.\n\nRenewable energy, while not perfect, is the future. It has many benefits and only a few drawbacks.\n\nPros:\n\nRenewable energy sources are abundant and can be found in nearly every part of the world.\n\nThese sources will never run out, unlike fossil fuels and nuclear power plants that have limited lifespans before they become obsolete or have to be decommissioned due to safety concerns.\n\nCons:\n\nThe cost of installing solar panels or wind turbines may seem high at first glance but when you consider how much money you’ll save on your utility bills each month, it’s clear that renewable energy investments are worth making!\n\nConclusion\n\nRenewable energy is the future, but it’s not perfect. We need to continue to push for cleaner energy sources and work towards a world where fossil fuels are no longer used.",
+      "image": "/images/post-the-pros-and-cons-of-renewable-energy.jpg"
+    },
+    {
+      "slug": "reduce-costs-with-renewable-energy",
+      "title": "Reduce Costs With Renewable Energy",
+      "date": "2022-05-13T21:18:04",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Dicta hic harum et occaeca\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus.\n\nQui voluptatum et ab sunt tenetu\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros. Proin eu urna vitae ex feugiat interdum. Nunc vel auctor nisi.\n\nNulla in tristique nibh. Phasellus porttitor leo id risus cursus. Aliquam tincidunt rutrum ante, eu vestibulum elit phare.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.\n\nVivamus mollis, est ut ornare  turpis mauris eleifend nunc\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus. Mauris eu dictum mi.\n\nQuisque in placerat nunc, vitae tincidunt quam. In molestie fringilla massa sed eleifend. Praesent sollicitudin massa ut leo dignissim auctor.\n\nProin ullamcorper eleifend ornare vel augue\n\nFusce finibu tincidu fermentum blandit\n\nVestibulum ante ipsum fames in faucibus\n\nAenean eu metus at dolor sodales dictum quis rhoncus\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "image": "/images/post-reduce-costs-with-renewable-energy.jpg"
+    },
+    {
+      "slug": "wind-energy-switch-to-a-clean-energy-provider",
+      "title": "Wind Energy: Switch To A Clean Energy Provider",
+      "date": "2022-05-13T21:16:20",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Dicta hic harum et occaeca\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus.\n\nQui voluptatum et ab sunt tenetu\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros. Proin eu urna vitae ex feugiat interdum. Nunc vel auctor nisi.\n\nNulla in tristique nibh. Phasellus porttitor leo id risus cursus. Aliquam tincidunt rutrum ante, eu vestibulum elit phare.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.\n\nVivamus mollis, est ut ornare  turpis mauris eleifend nunc\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus. Mauris eu dictum mi.\n\nQuisque in placerat nunc, vitae tincidunt quam. In molestie fringilla massa sed eleifend. Praesent sollicitudin massa ut leo dignissim auctor.\n\nProin ullamcorper eleifend ornare vel augue\n\nFusce finibu tincidu fermentum blandit\n\nVestibulum ante ipsum fames in faucibus\n\nAenean eu metus at dolor sodales dictum quis rhoncus\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "image": "/images/post-wind-energy-switch-to-a-clean-energy-provider.jpg"
+    },
+    {
+      "slug": "how-to-take-advantage-of-solar-energy",
+      "title": "How to Take Advantage of Solar Energy",
+      "date": "2022-05-13T21:14:32",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Dicta hic harum et occaeca\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus.\n\nQui voluptatum et ab sunt tenetu\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros. Proin eu urna vitae ex feugiat interdum. Nunc vel auctor nisi.\n\nNulla in tristique nibh. Phasellus porttitor leo id risus cursus. Aliquam tincidunt rutrum ante, eu vestibulum elit phare.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.\n\nVivamus mollis, est ut ornare  turpis mauris eleifend nunc\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus. Mauris eu dictum mi.\n\nQuisque in placerat nunc, vitae tincidunt quam. In molestie fringilla massa sed eleifend. Praesent sollicitudin massa ut leo dignissim auctor.\n\nProin ullamcorper eleifend ornare vel augue\n\nFusce finibu tincidu fermentum blandit\n\nVestibulum ante ipsum fames in faucibus\n\nAenean eu metus at dolor sodales dictum quis rhoncus\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "image": "/images/post-how-to-take-advantage-of-solar-energy.jpg"
+    },
+    {
+      "slug": "the-future-in-renewable-energy",
+      "title": "The Future in Renewable Energy",
+      "date": "2022-05-13T21:11:18",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Dicta hic harum et occaeca\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus.\n\nQui voluptatum et ab sunt tenetu\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros. Proin eu urna vitae ex feugiat interdum. Nunc vel auctor nisi.\n\nNulla in tristique nibh. Phasellus porttitor leo id risus cursus. Aliquam tincidunt rutrum ante, eu vestibulum elit phare.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.\n\nVivamus mollis, est ut ornare  turpis mauris eleifend nunc\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus. Mauris eu dictum mi.\n\nQuisque in placerat nunc, vitae tincidunt quam. In molestie fringilla massa sed eleifend. Praesent sollicitudin massa ut leo dignissim auctor.\n\nProin ullamcorper eleifend ornare vel augue\n\nFusce finibu tincidu fermentum blandit\n\nVestibulum ante ipsum fames in faucibus\n\nAenean eu metus at dolor sodales dictum quis rhoncus\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "image": "/images/post-the-future-in-renewable-energy.jpg"
+    },
+    {
+      "slug": "how-to-save-money-in-your-electric-bill",
+      "title": "How To Save Money In Your Electric Bill",
+      "date": "2022-05-13T21:10:15",
+      "excerpt": "Nam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "body": "Dicta hic harum et occaeca\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus.\n\nQui voluptatum et ab sunt tenetu\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros. Proin eu urna vitae ex feugiat interdum. Nunc vel auctor nisi.\n\nNulla in tristique nibh. Phasellus porttitor leo id risus cursus. Aliquam tincidunt rutrum ante, eu vestibulum elit phare.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.\n\nVivamus mollis, est ut ornare  turpis mauris eleifend nunc\n\nSed tincidunt tempor leo, vitae consequat lorem ornare ultricies. Nullam fringilla ultricies pharetra. Aliquam suscipit leo vel est fringilla laoreet in eget lorem. Proin non rhoncus nulla. Pellentesque porta nunc pretium, scelerisque justo a, tincidunt tellus. Mauris eu dictum mi.\n\nQuisque in placerat nunc, vitae tincidunt quam. In molestie fringilla massa sed eleifend. Praesent sollicitudin massa ut leo dignissim auctor.\n\nProin ullamcorper eleifend ornare vel augue\n\nFusce finibu tincidu fermentum blandit\n\nVestibulum ante ipsum fames in faucibus\n\nAenean eu metus at dolor sodales dictum quis rhoncus\n\nNulla consectetur maximus turpis a egestas. Mauris efficitur, ante non bibendum eleifend, diam massa varius ex, non vestibulum risus metus in eros.\n\nNam magna ex, accumsan id auctor sed, finibus a urna. Proin interdum feugiat viverra. Praesent sapien tortor, pulvinar rutrum purus at, tincidunt pretium dolor.",
+      "image": "/images/post-how-to-save-money-in-your-electric-bill.jpg"
+    }
+  ]
+}

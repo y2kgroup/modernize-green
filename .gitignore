@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.next.stuck/
+out/
+.env
+.env.local
+.DS_Store
+*.log

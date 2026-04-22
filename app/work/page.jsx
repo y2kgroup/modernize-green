@@ -1,5 +1,6 @@
 import site from '@/site.config.json';
 import CTABand from '@/components/CTABand';
+import Testimonials from '@/components/Testimonials';
 
 export const metadata = { title: 'Our Work' };
 
@@ -10,13 +11,14 @@ export default function WorkPage() {
     <>
       <section className="bg-brand-dark text-white">
         <div className="container-narrow py-20 md:py-28">
-          <div className="eyebrow mb-4 text-brand-accent">Our Work</div>
+          <div className="eyebrow mb-4 text-brand-accent">Sustainable Projects</div>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight max-w-3xl">
-            {site.work?.headline || 'Recent projects'}
+            DISRUPTING THE ENERGY INDUSTRY
           </h1>
-          <p className="mt-6 text-lg text-white/80 max-w-2xl">{site.work?.lead}</p>
         </div>
       </section>
+
+      <Testimonials data={site.sections.testimonials} />
 
       <section className="py-16 md:py-24">
         <div className="container-narrow">

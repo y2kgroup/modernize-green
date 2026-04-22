@@ -6,20 +6,25 @@ import site from '@/site.config.json';
 
 export default function Header() {
   const [open, setOpen] = useState(false);
-  const { logo, logoAlt, name } = site.site;
+  const { logo, logoAlt, name, license } = site.site;
   const { primary, cta } = site.nav;
 
   return (
     <header className="sticky top-0 z-40 bg-brand-dark text-white shadow-md">
       <div className="container-narrow flex items-center justify-between py-4">
-        <Link href="/" className="flex items-center gap-3" aria-label={name}>
-          {logo ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img src={logo} alt={logoAlt} className="h-10 w-auto" />
-          ) : (
-            <span className="text-lg font-bold">{name}</span>
+        <div className="flex flex-col">
+          <Link href="/" className="flex items-center gap-3" aria-label={name}>
+            {logo ? (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img src={logo} alt={logoAlt} className="h-10 w-auto" />
+            ) : (
+              <span className="text-lg font-bold">{name}</span>
+            )}
+          </Link>
+          {license && (
+            <span className="text-xs text-white/70 mt-0.5">LICENSE # {license}</span>
           )}
-        </Link>
+        </div>
 
         <nav className="hidden lg:flex items-center gap-7">
           {primary.map((item) => (

@@ -5,7 +5,8 @@
     "description": "Making renewable energy a reality. Solar, HVAC, impact windows, roofing, landscaping, and attic insulation for everyday homeowners.",
     "url": "https://modernizegreensolutions.com",
     "logo": "/images/logo.webp",
-    "logoAlt": "Modernize Green Solutions"
+    "logoAlt": "Modernize Green Solutions",
+    "license": "CGC1534246"
   },
   "theme": {
     "colors": {
@@ -81,15 +82,16 @@
       "enabled": true,
       "eyebrow": "MAKING RENEWABLE ENERGY A REALITY",
       "headline": "Making energy-efficient homes affordable for all homeowners.",
-      "subheadline": "Solar, HVAC, impact windows, roofing, landscaping, and insulation — everything your home needs to go green, in one trusted partner.",
-      "cta": {
+      "subheadline": "Modernize Green Solutions provides the highest quality energy-efficient products for your home.",
+      "primaryButton": {
         "label": "Request a detailed estimate",
         "href": "/contact"
       },
-      "ctaSecondary": {
+      "secondaryButton": {
         "label": "See our work",
         "href": "/work"
       },
+      "videoBackground": "/videos/hero.mp4",
       "backgroundImage": "/images/hero.png"
     },
     "intro": {
@@ -162,6 +164,114 @@
       "enabled": true,
       "headline": "From the blog",
       "subheadline": "Insights on renewable energy and home efficiency."
+    },
+    "serviceIcons": {
+      "enabled": true,
+      "items": [
+        {
+          "slug": "windows",
+          "title": "Impact Windows and Doors",
+          "description": "Our products are designed to be sustainable, innovative, and effective. We aim to help people save energy, improve efficiency, and achieve their environmental goals.",
+          "icon": "/images/service-windows.png",
+          "href": "/solutions/windows"
+        },
+        {
+          "slug": "hvac",
+          "title": "HVAC",
+          "description": "Modernize Green Solutions is a premier provider of home comfort systems. We offer HVAC systems powered by energy-efficient technology while ensuring quality service for all residential and commercial customers.",
+          "icon": "/images/service-hvac-icon.png",
+          "href": "/solutions/hvac"
+        },
+        {
+          "slug": "landscaping",
+          "title": "Landscaping",
+          "description": "It's time to give your home a complete makeover by upgrading your property with our professional landscaping experience! Choose between adding turf grass to your existing concrete or complete paver walkways, patios, and pathways.",
+          "icon": "/images/service-landscaping-icon.png",
+          "href": "/solutions/landscaping"
+        },
+        {
+          "slug": "attic-insulation",
+          "title": "Attic Insulation",
+          "description": "From expert attic insulation to energy-efficient upgrades, our services deliver outstanding results with competitive pricing and certified materials to maximize comfort and reduce energy costs.",
+          "icon": "/images/service-attic-icon.png",
+          "href": "/solutions/attic-insulation"
+        }
+      ]
+    },
+    "community": {
+      "enabled": true,
+      "headline": "A SMARTER, BETTER-CONNECTED COMMUNITY.",
+      "description": "We focus on minimizing our customer's energy consumption and maximizing their returns on investment. Modernize Green Solutions offers affordable pricing and flexible financing options for high-quality installations of impact windows and doors, HVAC systems, attic insulation, landscaping, and exterior cool paint.",
+      "image": "/images/community.jpg"
+    },
+    "mySafeFLHome": {
+      "enabled": true,
+      "headline": "My Safe FL Home Program",
+      "description": "Modernize Green Solutions takes great pride in participating in the My Safe FL Home program and is delighted to extend this service to our esteemed clients. This program provides a free Wind Mitigation Home Inspection and allows you to apply for a grant of up to $10,000 to help prepare your Florida home for the next hurricane season.",
+      "logo": "/images/msfh-logo.png",
+      "highlights": [
+        "Free Wind Mitigation Home Inspection",
+        "Apply for a grant of up to $10,000",
+        "State of Florida contributes $2 to every $1 provided",
+        "Cost-effective approach to keep your home safe and secure"
+      ],
+      "primaryButton": {
+        "label": "Learn More",
+        "href": "/contact"
+      },
+      "secondaryButton": {
+        "label": "View PDF Agreement",
+        "href": "https://modernizegreensolutions.com/wp-content/uploads/2023/11/MSFH-Logo-500x300-1.png"
+      }
+    },
+    "benefits": {
+      "enabled": true,
+      "headline": "THE BENEFITS OF GREEN ENERGY",
+      "image": "/images/benefits.webp",
+      "benefits": [
+        "Cost Savings",
+        "Environmentally Friendly",
+        "Energy Independence",
+        "Increased Property Value",
+        "Government Incentives"
+      ]
+    },
+    "testimonials": {
+      "enabled": true,
+      "headline": "What Our Clients Say",
+      "testimonials": [
+        {
+          "text": "There was good contact. The people who put up their solar panels were very nice. After the service, they also cleaned the area. It took 3 hours to get everything set up. Very fast.",
+          "author": "Solar Panel Customer"
+        },
+        {
+          "text": "Strongly recommended company. All of the people I talked to from them were very clear about how to put solar panels every step of the way. My roof looks great with the new panels. We appreciate these guys.",
+          "author": "Solar Installation Client"
+        },
+        {
+          "text": "The agent from this company was great at helping us figure out what we needed in terms of solar panels and gave us useful information that helped us make a better choice. The installation went smoothly and quickly.",
+          "author": "Happy Homeowner"
+        },
+        {
+          "text": "The people who put up the solar panels did a great job and were very professional and quick. Since it was put in, the system has been working well, and my friends have told me how nice it looks.",
+          "author": "Satisfied Customer"
+        },
+        {
+          "text": "I am extremely satisfied with the outstanding service provided by Modernize Green Solutions. Their solar panel installation was seamless, and I'm already seeing a significant reduction in my energy bills. Highly recommended!",
+          "author": "Energy-Saving Client"
+        },
+        {
+          "text": "My experience with Modern Green Solution has been tremendous. Not just did they impress me by supplying solar powered products at the best possible price but also astonished me with their solar equipment options. Hassle free dealings and quick deliveries were second to none.",
+          "author": "Impressed Customer"
+        }
+      ]
+    },
+    "contactSection": {
+      "enabled": true,
+      "headline": "Request a detailed estimate",
+      "address": "1 Oakwood Blvd, Hollywood, Suite 200, FL 33020",
+      "phone": "305-786-5950",
+      "hours": "Monday – Thursday: 9:00 am – 5:00 pm\nFriday: 9:00 am — 1:00 pm"
     }
   },
   "about": {
@@ -188,9 +298,9 @@
     "headline": "Get in touch",
     "lead": "Tell us about your home. We'll follow up within one business day.",
     "email": "info@modernizegreensolutions.com",
-    "phone": "",
-    "address": "",
-    "hours": "Mon–Fri, 9am–6pm ET",
+    "phone": "305-786-5950",
+    "address": "1 Oakwood Blvd, Hollywood, Suite 200, FL 33020",
+    "hours": "Monday – Thursday: 9:00 am – 5:00 pm\nFriday: 9:00 am — 1:00 pm",
     "formEndpoint": ""
   },
   "footer": {
